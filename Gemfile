@@ -64,6 +64,7 @@ group :test do
   gem 'minitest-reporters'
   gem 'guard'          
   gem 'guard-minitest'
+  
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
